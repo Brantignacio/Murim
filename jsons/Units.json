@@ -6,7 +6,7 @@
 		"replaces": "Cavalry",
 		"movement": 5,
 		"strength": 120,
-		"MeleeStrength": 36,
+		"MeleeStrength": 50,
 		"range": 1,
 		"cost": 150,
 		"requiredTech": "Ballistics",
