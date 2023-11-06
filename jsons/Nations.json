@@ -1,10 +1,10 @@
 [
 	{
-		"name": "Aliens",
+		"name": "Mount Hua Sect",
 		"leaderName": "Zyxxyz",
 		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic","Domination"
 		
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
