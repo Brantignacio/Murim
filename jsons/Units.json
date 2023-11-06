@@ -12,6 +12,6 @@
 		"requiredTech": "Ballistics",
 		"requiredResource": "Iron",
 		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"attackSound": "sword_swoosh"
 	}
 ]
